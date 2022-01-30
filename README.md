@@ -21,7 +21,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://imgur.com/E3V7DJ5" width=250><br>
+![flix](https://user-images.githubusercontent.com/75554919/151688922-fd09f1f9-24dd-441d-9a28-3b29bbf5ff0c.gif)
+
 
 ### Notes
 Some challenges I encountered while building this app were: syntax issues with the unfamiliar Swift language, cropping issues with the image drop-in from the object library, and general compiler issues.
