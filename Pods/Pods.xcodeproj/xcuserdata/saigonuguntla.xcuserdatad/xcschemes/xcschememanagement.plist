@@ -18,21 +18,21 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>Pods-Flix-FlixUITests.xcscheme</key>
+		<key>Pods-MovieViewer-MovieViewerUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
-		<key>Pods-Flix.xcscheme</key>
+		<key>Pods-MovieViewer.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>Pods-FlixTests.xcscheme</key>
+		<key>Pods-MovieViewerTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -43,4 +43,5 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict/>
 </dict>
+	
 </plist>
