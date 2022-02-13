@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "049A2562DFEE17CB560040F17DB3B219"
-               BuildableName = "Pods_FlixTests.framework"
-               BlueprintName = "Pods-FlixTests"
+               BlueprintIdentifier = "5627C3E02738E2D6B86418CE6838E996"
+               BuildableName = "Pods_MovieViewerTests.framework"
+               BlueprintName = "Pods-MovieViewerTests"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -55,4 +55,5 @@
       buildConfiguration = "Release"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
+   
 </Scheme>
