@@ -2,9 +2,8 @@
 //  ViewController.swift
 //  MovieViewer
 //
-//  Created by Melah Motani on 2/5/22.
+//  Created by Sai Gonuguntla on 02/12/22.
 //
-
 import UIKit
 import AlamofireImage
 
@@ -39,7 +38,6 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
                     // TODO: Get the array of movies
                     // TODO: Store the movies in a property to use elsewhere
                     // TODO: Reload your table view data
-
              }
         }
         task.resume()
@@ -67,9 +65,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         return cell
     }
     // MARK: - Navigation
-
     // In a storyboard-based application, you will often want to do a little preparation before navigation
-
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         // Get the new view controller using segue.destination.
         let cell = sender as! UITableViewCell
@@ -83,4 +79,3 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
 
     }
 }
-
