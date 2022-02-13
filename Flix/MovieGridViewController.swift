@@ -2,7 +2,7 @@
 //  MovieGridViewController.swift
 //  MovieViewer
 //
-//  Created by Melah Motani on 2/12/22.
+//  Created by Sai Gonuguntla on 02/12/2022.
 //
 
 import UIKit
