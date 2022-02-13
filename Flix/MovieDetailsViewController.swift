@@ -2,7 +2,7 @@
 //  MovieDetailsViewController.swift
 //  MovieViewer
 //
-//  Created by Melah Motani on 2/7/22.
+//  Created by Sai Gonuguntla on 2/12/22.
 //
 
 import UIKit
